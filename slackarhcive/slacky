@@ -1,0 +1,12 @@
+import requests
+
+headers = {
+  'user-agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36',
+  'authority' : 'api.slackarchive.io',
+  'Remote-Adress' : '51.15.69.64:443',
+  'referer' : 'https://mindtheproduct.slackarchive.io/agile/page-5',
+  'x-alt-referer' : 'https://mindtheproduct.slackarchive.io'
+
+}
+r = requests.get('https://api.slackarchive.io/v1/messages?size=100&team=T09C8HPAQ&channel=C0DV0F5ME&offset=100', headers=headers)
+print(r.content)

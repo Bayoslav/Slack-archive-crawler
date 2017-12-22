@@ -1,0 +1,394 @@
+[
+  {
+    "name": "4 Zimmer Wohnung",
+    "address": {
+      "street": "Riedhofstrasse 49",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {}
+    }
+  },
+  {
+    "name": "4.5 Zimmer Wohnung",
+    "address": {
+      "street": "Aeckerwiesenstrasse 24",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Balkon": "true",
+        "Untermiete": "true"
+      }
+    }
+  },
+  {
+    "name": "4.5 Zimmer Wohnung",
+    "address": {
+      "street": "Maienriedweg 15",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Lift": "true",
+        "WG erlaubt": "true",
+        "Haustiere ok": "true",
+        "Rollstuhlgängig": "true",
+        "Glaskeramik": "true"
+      }
+    }
+  },
+  {
+    "name": "4 Zimmer Wohnung",
+    "address": {
+      "street": "Neuwiesenstr. 16",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true"
+      }
+    }
+  },
+  {
+    "name": "1.5 Zimmer Wohnung",
+    "address": {
+      "street": "Obergasse 2a",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Eichgutstrasse 2",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Lift": "true",
+        "Minergie": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Tiefgarage": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Espenstrasse 88",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Lift": "true",
+        "Minergie": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Wohnküche": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Weizackerstrasse 2",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Garage": "true",
+        "Gartenplatz": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Dachwohnung",
+    "address": {
+      "street": "Thurgauerstrasse 9",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "WG erlaubt": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Gartenplatz": "true"
+      }
+    }
+  },
+  {
+    "name": "2.5 Zimmer Wohnung",
+    "address": {
+      "street": "Hegifeldstrasse 10a",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Lift": "true",
+        "Minergie": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Wohnküche": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Attikawohnung",
+    "address": {
+      "street": "Pilgerweg 3",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Balkon": "true"
+      }
+    }
+  },
+  {
+    "name": "2.5 Zimmer Wohnung",
+    "address": {
+      "street": "Seuzacherstrasse 11A",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Geschirrspüler": "true",
+        "Terrasse": "true",
+        "Untermiete": "true"
+      }
+    }
+  },
+  {
+    "name": "2.5 Zimmer Wohnung",
+    "address": {
+      "street": "Landvogt-Waser-Strasse 50",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Lift": "true",
+        "Minergie": "true",
+        "Haustiere ok": "true",
+        "Rollstuhlgängig": "true",
+        "Glaskeramik": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Attikawohnung",
+    "address": {
+      "street": "Claisstrasse 7",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "ISDN": "true",
+        "Kabel TV": "true",
+        "Lift": "true",
+        "Haustiere ok": "true",
+        "Rollstuhlgängig": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Grüzefeldstrasse 42",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Wohnküche": "true",
+        "Parkplatz": "true"
+      }
+    }
+  },
+  {
+    "name": "4.5 Zimmer Wohnung",
+    "address": {
+      "street": "Grundhofstrasse 68",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "WG erlaubt": "true",
+        "Haustiere ok": "true",
+        "Glaskeramik": "true",
+        "Tiefgarage": "true"
+      }
+    }
+  },
+  {
+    "name": "4.5 Zimmer Wohnung",
+    "address": {
+      "street": "Freiestrasse 55",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "WG erlaubt": "true",
+        "Minergie": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Hochwachtstrasse 28 h",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "ISDN": "true",
+        "Kabel TV": "true",
+        "Lift": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Else-Züblin-Strasse 79",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "Lift": "true",
+        "Minergie": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true"
+      }
+    }
+  },
+  {
+    "name": "1 Zimmer Wohnung",
+    "address": {
+      "street": "Wartstrasse 26",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "Lift": "true",
+        "Glaskeramik": "true",
+        "Geschirrspüler": "true",
+        "Wohnküche": "true"
+      }
+    }
+  },
+  {
+    "name": "Studio",
+    "address": {
+      "street": "Albanistrasse ",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Balkon": "true",
+        "Untermiete": "true"
+      }
+    }
+  },
+  {
+    "name": "5.5 Zimmer Maisonette",
+    "address": {
+      "street": "Weizackerstr. 25",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Weitsicht": "true",
+        "Cheminée": "true",
+        "Kabel TV": "true",
+        "Lift": "true",
+        "Garage": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Roggenweg 10",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {
+        "Kabel TV": "true",
+        "Kinderfreundlich": "true",
+        "Parkplatz": "true",
+        "Garage": "true",
+        "Haustiere ok": "true"
+      }
+    }
+  },
+  {
+    "name": "3.5 Zimmer Wohnung",
+    "address": {
+      "street": "Tösstalstrasse 251 a-f / 253",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {}
+    }
+  },
+  {
+    "name": "3 Zimmer Wohnung",
+    "address": {
+      "street": "Hofwiesenweg 2",
+      "city": "Winterthur",
+      "zipcode": 8400
+    },
+    "additionalFeatures": {
+      "equipment": {}
+    }
+  }
+]
