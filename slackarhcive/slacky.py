@@ -39,13 +39,13 @@ for pepe in dictlist:
             print(url)
             if(cont.find('Too many requests') == 1):
                 print(r.content)
-                print("picka")
+                print("Error")
                 time.sleep(10)
                 r = requests.get(url, headers=headers)
             #{'messages': [], 'total': 30, 'aggs': {'buckets': {}}, 'related': {'users': {}}}
             elif((len(cont))<101):
                 print(r.content)
-                print("pickica")
+                print("Error 2")
 
                 raise EnvironmentError
 
@@ -70,7 +70,7 @@ for pepe in dictlist:
             k+=100
 
         except:
-            print("kek")
+            #print("kek")
             break
     wb.save(filename = 'slackyarchive2.xlsx')
 
